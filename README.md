@@ -1,7 +1,6 @@
 hello-world
 ===========
 
-trial &amp; error
 
 Hubers,
 
